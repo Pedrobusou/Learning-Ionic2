@@ -1,0 +1,5 @@
+page-home {
+    h2, p {
+        color: map-get($colors, primary);
+    }
+}
